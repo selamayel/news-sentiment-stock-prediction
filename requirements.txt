@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+ta-lib
+yfinance
+requests
+beautifulsoup4
+plotly
+jupyter
